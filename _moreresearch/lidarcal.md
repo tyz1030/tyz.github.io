@@ -8,6 +8,6 @@ authors: "<b>T. Zhang</b>, E. Iscar, and M. Johnson-Roberson"
 uri: 
 arxiv: 
 bibtex: 
-pdf: 
+pdf: files/Lidar_to_camera_calibration.pdf
 teaser: images/lidarcal.png
 ---
