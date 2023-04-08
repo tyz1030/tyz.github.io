@@ -8,9 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in the [Robotics Institute](https://www.ri.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be advised by Prof. [Matthew Johnson-Roberson](https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/). I work on optical perception for field robots.
+I'm a Ph.D. student in the [Robotics Institute](https://www.ri.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be advised by Prof. [Matthew Johnson-Roberson](https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/). I'm broadly interested in optical perception, 3D vision, graphics, localization, mapping, and their applications on field robots. I do electronic design and embedded system development for robots as well.
 
-I got my M.S. in Robotics from University of Michigan and B.Eng from Tianjin University.
+I'm looking for all kinds of research opportunities and collaborations.
+
+Research
+====== 
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
 
 <!-- A data-driven personal website
 ======
