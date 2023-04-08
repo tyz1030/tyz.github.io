@@ -34,8 +34,8 @@ Research
 </style>
 
 <table class="hoverTable">
-  <col style="width:75%">
-  <col style="width:25%">
+  <col style="width:45%">
+  <col style="width:55%">
   {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}
