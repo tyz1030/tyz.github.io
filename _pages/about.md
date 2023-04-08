@@ -129,6 +129,13 @@ Teaching
   {% endfor %}
 </table>
 
+Education
+------
+- <img src="..\images\cmu.png" alt="drawing" style="width:50px;" align="middle" border="3"/> Ph.D Carnegie Mellon University
+
+- <img src="..\images\umich.png" alt="drawing" style="width:50px;" align="middle" border="3"/> M.S. University of Michigan, Ann Arbor
+  
+- <img src="..\images\tju.jpg" alt="drawing" style="width:50px;" align="middle" border="3"/> B.Eng. Tianjin University
 
 <!-- A data-driven personal website
 ======
