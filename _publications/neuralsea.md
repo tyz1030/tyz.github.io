@@ -9,5 +9,5 @@ uri:
 arxiv: 
 bibtex: 
 pdf: 
-teaser: 
+teaser: images/neuralsea.png
 ---
