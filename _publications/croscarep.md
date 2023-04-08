@@ -7,7 +7,7 @@ venue: "RA-L & ICRA"
 authors: "T. Zhang and M. Johnson-Roberson"
 uri: https://arxiv.org/abs/2109.04087
 arxiv: 
-bibtex: 
+bibtex: files/croscarep.txt
 pdf: 
 teaser: images/concept.png
 ---
