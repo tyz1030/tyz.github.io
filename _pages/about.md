@@ -16,7 +16,7 @@ Research
 ------
 <style style="text/css">
   	.hoverTable{
-		width:85%; 
+		width:100%; 
 		border-collapse:collapse; 
 		border: 0px;
 	}
