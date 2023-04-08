@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in the [Robotics Institute](https://www.ri.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu). I am fortunate to be advised by Prof. [Matthew Johnson-Roberson](https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/). I'm broadly interested in optical perception, 3D vision, graphics, localization, mapping, and their applications on field robots. I do electronic design and embedded system development for robots as well.
+I'm a Ph.D. student in the [Robotics Institute](https://www.ri.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu) advised by Prof. [Matthew Johnson-Roberson](https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/). I'm broadly interested in optical perception, 3D vision, graphics, localization, mapping, and their applications on field robots. I do electronic design and embedded system development for robots as well.
 
 I'm looking for all kinds of research opportunities and collaborations.
 
@@ -16,7 +16,7 @@ Research
 ------
 <style style="text/css">
   	.hoverTable{
-		width:100%; 
+		width:10%; 
 		border-collapse:collapse; 
 		border: 0px;
 	}
