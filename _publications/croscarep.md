@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/frame-interpolation-cg
 date: 2021-12-15
 venue: "RA-L & ICRA"
-authors: "T. Zhang and M. Johnson-Roberson"
+authors: "<b>T. Zhang</b> and M. Johnson-Roberson"
 uri: https://arxiv.org/abs/2109.04087
 arxiv: 
 bibtex: files/croscarep.txt
