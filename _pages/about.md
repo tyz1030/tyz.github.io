@@ -100,6 +100,36 @@ Fieldwork
   {% endfor %}
 </table>
 
+Teaching
+------
+<style style="text/css">
+  	.hoverTable{
+		width:100%; 
+		border-collapse:collapse; 
+		border: 0px;
+	}
+	.hoverTable td{ 
+		padding:7px; border:#4e95f4 0px solid;
+	}
+	/* Define the default color for all the table rows */
+	.hoverTable tr{
+		background: #ffffff;
+	}
+	/* Define the hover highlight color for the table row */
+    .hoverTable tr:hover {
+          background-color: #f7f7f7;
+    }
+</style>
+
+<table class="hoverTable">
+  <col style="width:75%">
+  <col style="width:25%">
+  {% for post in site.teaching reversed %}
+    {% include archive-single-pub.html %}
+  {% endfor %}
+</table>
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
