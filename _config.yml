@@ -190,6 +190,9 @@ collections:
   moreresearch:
     output: true
     permalink: /:collection/:path/
+  fieldwork:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
