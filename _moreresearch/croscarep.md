@@ -1,7 +1,7 @@
 ---
 title: "Learning Cross-Scale Visual Representations for Real-Time Image Geo-Localization"
-collection: publications
-permalink: /publication/frame-interpolation-cg
+collection: moreresearch
+permalink: /moreresearch/frame-interpolation-cg
 date: 2022-04-01
 venue: "RA-L & ICRA"
 authors: "<b>T. Zhang</b> and M. Johnson-Roberson"
