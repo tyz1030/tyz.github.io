@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tianyi Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tianyi Zhang"
 description              : &description "personal description"
 url                      : https://tyz1030.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
