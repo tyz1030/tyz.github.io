@@ -140,7 +140,7 @@ Education
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/umich.png" alt="Image" style="width: 40px">
+  <img src="../images/umich.png" alt="Image" style="width: 40px" margin-right: 10px;>
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 16px;">M.S. in Robotics</span><br/>
     <span style="font-size: 12px;">University of Michigan, Ann Arbor (UM)</span>  </div>
