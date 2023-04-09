@@ -159,7 +159,7 @@ Work Experience
   <img src="../images/rai.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>Carpenter & Part-time Software Engineer, Refraction AI (~ 1 yr)</b></span><br/>
-    <span style="font-size: 12px;">Developed a novel LiDAR-Camera calibration software. Automated the calibration of 12 cameras, 2 lidars, 2 IMUs and a rotation platform with one click!</span></div> 
+    <span style="font-size: 12px;">Developed a novel LiDAR-Camera calibration software. Automated the calibration of 12 cameras, 2 lidars, 2 IMUs and a rotation platform. With one click, everything gets calibrated!</span></div> 
 </div>
 
 <div style="display: flex; align-items: center;margin-bottom: 20px;">
