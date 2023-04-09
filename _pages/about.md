@@ -135,15 +135,15 @@ Education
 <div style="display: flex; align-items: center;">
   <img src="../images/cmu.png" alt="Image" style="width: 40px" >
   <div style="display: inline; flex-direction: column; justify-content: center;">
-    Ph.D. Candidate <br/>Carnegie Mellon University (CMU)
+    Ph.D. Candidate Robotics, Carnegie Mellon University (CMU) <br/> 2022-
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="../images/umich.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
-	<span style="font-size: 16px;">M.S. in Robotics</span><br/>
-    <span style="font-size: 12px;">University of Michigan, Ann Arbor (UM)</span>  </div>
+	<span style="font-size: 14px;"><b>M.S. Robotics, University of Michigan, Ann Arbor (UM)</b></span>2018-2020<br/>
+    <span style="font-size: 11px;"></span></div>
 </div>
 
 <div style="display: flex; align-items: center;">
