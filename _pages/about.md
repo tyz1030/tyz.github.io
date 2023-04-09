@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
-I'm a Ph.D. student in the [Robotics Institute](https://www.ri.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu) advised by Prof. [Matthew Johnson-Roberson](https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/). I'm broadly interested in optical perception, 3D vision, graphics, localization, mapping, and their applications on field robots. I do electronic design and embedded system development for robots as well.
+Hi! My name is Tianyi <a href="https://translate.google.com/?sl=en&tl=zh-CN&text=Tianyi%20Zhang&op=translate"><i class="fa fa-volume-up"></i></a>. I'm a Ph.D. student in the [Robotics Institute](https://www.ri.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu) advised by Prof. [Matthew Johnson-Roberson](https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/). I'm broadly interested in optical perception, 3D vision, graphics, localization, mapping, and their applications on field robots. I do electronic design and embedded system development for robots as well.
 
 I'm looking for all kinds of research opportunities and collaborations.
 
