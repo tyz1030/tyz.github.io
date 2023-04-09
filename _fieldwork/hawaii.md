@@ -9,5 +9,5 @@ uri:
 arxiv: 
 bibtex: 
 pdf: 
-teaser: images/hawaii.png
+teaser: images/hawaii2.png
 ---
