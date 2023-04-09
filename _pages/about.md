@@ -151,24 +151,15 @@ Education
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>B.Eng. Tianjin University (TJU)</b></span><br/>
     <span style="font-size: 12px;">None-Worth-Mention Awards (Top 90%. My cohorts are great.)</span></div> 
-  </div>
 </div>
-
-<!-- <img src="../images/cmu.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: flex;">Ph.D. Carnegie Mellon University<br/>.</div>
-<!-- 
-<img src="../images/umich.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">M.S. University of Michigan, Ann Arbor<br/>.</div>
-  
-<img src="../images/tju.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">B.Eng. Tianjin University<br/>.</div> -->
 
 Work Experience
 ------
-
 <div style="display: flex; align-items: center;">
   <img src="../images/rai.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>Carpenter & Part-time Software Engineer, Refraction AI (~ 1 yr)</b></span><br/>
     <span style="font-size: 12px;">Developed a novel LiDAR-Camera calibration software. Automated the calibration of 12 cameras, 2 lidars, 2 IMUs and a rotations platform with one click!</span></div> 
-  </div>
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -176,7 +167,6 @@ Work Experience
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>Visiting Undergrad Researcher, Massachuset Institute of Technology (~ 0.5 yr)</b></span><br/>
     <span style="font-size: 12px;">Got my first-ever funding from TJU to do my undergrad thesis at MIT working with by Dr. <a href="https://www.i4fsi.com/">Dixia Fan</a>.</span></div> 
-  </div>
 </div>
 
 <div style="display: flex; align-items: center;">
@@ -184,7 +174,6 @@ Work Experience
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>Donut Eater, SLAMTEC (2017 Summer)</b></span><br/>
     <span style="font-size: 12px;">SLAMTEC build really good LiDARs and Robot platforms. Check it out!</span></div> 
-  </div>
 </div>
 
 
