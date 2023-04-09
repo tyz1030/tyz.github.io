@@ -131,19 +131,19 @@ Teaching
 
 Education
 ------
-- <img src="../images/cmu.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">Ph.D. Carnegie Mellon University<br/>.</div>
+<img src="../images/cmu.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">Ph.D. Carnegie Mellon University<br/>.</div>
 
-- <img src="../images/umich.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">M.S. University of Michigan, Ann Arbor<br/>.</div>
+<img src="../images/umich.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">M.S. University of Michigan, Ann Arbor<br/>.</div>
   
-- <img src="..\images\tju.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">B.Eng. Tianjin University<br/>.</div>
+<img src="../images/tju.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">B.Eng. Tianjin University<br/>.</div>
 
 Work Experience
 ------
-- <img src="..\images\rai.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">carpenter, part-time software engineer<br/>.</div>
+<img src="../images/rai.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">carpenter, part-time software engineer<br/>.</div>
 
-- <img src="..\images\mit.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">undergrad visiting researcher<br/>did some reserach</div>
+<img src="../images/mit.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">undergrad visiting researcher<br/>did some reserach</div>
   
-- <img src="..\images\slamtec.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">donut eater<br/>.</div>
+<img src="../images/slamtec.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">donut eater<br/>.</div>
 
 
 <!-- A data-driven personal website
