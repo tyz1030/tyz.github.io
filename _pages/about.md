@@ -172,10 +172,13 @@ Work Experience
 <div style="display: flex; align-items: center;margin-bottom: 20px;">
   <img src="../images/slamtec.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
-	<span style="font-size: 14px;"><b>Donut Eater, SLAMTEC (2017 Summer)</b></span><br/>
+	<span style="font-size: 14px;"><b>Donut Eater & Software Intern, SLAMTEC (2017 Summer)</b></span><br/>
     <span style="font-size: 12px;">SLAMTEC build really good LiDARs and Robot platforms. Check it out!</span></div> 
 </div>
 
+Services
+------
+<span style="font-size: 14px;">RA-L 2021, ICRA 2022, KDD 2023</span>
 
 
 
