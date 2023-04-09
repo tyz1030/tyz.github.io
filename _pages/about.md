@@ -125,7 +125,7 @@ Teaching
   <col style="width:75%">
   <col style="width:25%">
   {% for post in site.teaching reversed %}
-    {% include archive-single-pub.html %}
+    {% include archive-single-teaching.html %}
   {% endfor %}
 </table>
 
