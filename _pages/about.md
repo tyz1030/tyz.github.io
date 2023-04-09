@@ -141,7 +141,7 @@ Education
 
 <div style="display: flex; align-items: center;">
   <img src="../images/umich.png" alt="Image" style="width: 40px">
-  <div style="display: inline; flex-direction: column; justify-content: center;">
+  <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 16px;">M.S. in Robotics</span><br/>
     <span style="font-size: 12px;">University of Michigan, Ann Arbor (UM)</span>  </div>
 </div>
@@ -182,7 +182,7 @@ Work Experience
 
 <div style="display: flex; align-items: center;">
   <img src="../images/slamtec.png" alt="Image" style="width: 40px">
-  <div style="display: inline; flex-direction: column; justify-content: center;">
+  <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
     <!-- <h2>Heading</h2> -->
     Donut Eater (2017 Summer)<br/> SLAMTec build really good LiDARs and Robot platforms. Check it out!
   </div>
