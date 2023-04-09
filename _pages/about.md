@@ -133,7 +133,7 @@ Education
 ------
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/cmu.png" alt="Image" style="width: 40px" align="middle" border="3">
+  <img src="../images/cmu.png" alt="Image" style="width: 40px">
   <div style="display: inline; flex-direction: column; justify-content: center;">
     <!-- <h2>Heading</h2> -->
     Ph.D. Carnegie Mellon University<br/>Ph.D. Carnegie Mellon University
