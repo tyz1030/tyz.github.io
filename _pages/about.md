@@ -132,12 +132,11 @@ Teaching
 Education
 ------
 
-<div style="display: flex;">
+<div style="display: inline;">
   <img src="../images/cmu.png" alt="Image" style="width: 40px" align="middle" border="3">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <!-- <h2>Heading</h2> -->
-    <p>Ph.D. Carnegie Mellon University</p>
-    <p>Ph.D. Carnegie Mellon University</p>
+    <p>Ph.D. Carnegie Mellon University<br/>Ph.D. Carnegie Mellon University</p>
   </div>
 </div>
 
