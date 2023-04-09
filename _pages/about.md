@@ -133,7 +133,7 @@ Education
 ------
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/cmu.png" alt="Image" style="width: 40px">
+  <img src="../images/cmu.png" alt="Image" style="width: 40px" font-size: 16px;>
   <div style="display: inline; flex-direction: column; justify-content: center;">
     Ph.D. Candidate <br/>Carnegie Mellon University (CMU)
   </div>
@@ -158,7 +158,7 @@ Education
 <!-- 
 <img src="../images/umich.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">M.S. University of Michigan, Ann Arbor<br/>.</div>
   
-<img src="../images/tju.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">B.Eng. Tianjin University<br/>.</div> --> -->
+<img src="../images/tju.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">B.Eng. Tianjin University<br/>.</div> -->
 
 Work Experience
 ------
