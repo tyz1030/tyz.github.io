@@ -131,7 +131,18 @@ Teaching
 
 Education
 ------
-<img src="../images/cmu.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">Ph.D. Carnegie Mellon University<br/>.</div>
+
+<div style="display: flex;">
+  <img src="../images/cmu.png" alt="Image" style="width: 40px" align="middle" border="3">
+  <div style="display: flex; flex-direction: column; justify-content: center;">
+    <!-- <h2>Heading</h2> -->
+    <p>Ph.D. Carnegie Mellon University</p>
+    <p>Ph.D. Carnegie Mellon University</p>
+  </div>
+</div>
+
+
+<img src="../images/cmu.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: flex;">Ph.D. Carnegie Mellon University<br/>.</div>
 
 <img src="../images/umich.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">M.S. University of Michigan, Ann Arbor<br/>.</div>
   
