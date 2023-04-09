@@ -133,24 +133,24 @@ Education
 ------
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/cmu.png" alt="Image" style="width: 40px" >
-  <div style="display: inline; flex-direction: column; justify-content: center;">
-    Ph.D. Candidate Robotics, Carnegie Mellon University (CMU) <br/> 2022-
-  </div>
+  <img src="../images/cmu.png" alt="Image" style="width: 40px; margin-right: 10px;" >
+  <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
+	<span style="font-size: 14px;"><b>Ph.D. Candidate Robotics, Carnegie Mellon University (CMU)</b></span><br/>
+    <span style="font-size: 12px;">2022-?</span></div>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="../images/umich.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>M.S. Robotics, University of Michigan, Ann Arbor (UM)</b></span><br/>
-    <span style="font-size: 11px;">2018-2020</span></div>
+    <span style="font-size: 12px;">2018-2020</span></div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/tju.png" alt="Image" style="width: 40px">
-  <div style="display: inline; flex-direction: column; justify-content: center;">
-    <!-- <h2>Heading</h2> -->
-    B.Eng. Tianjin University (TJU)<br/> None-Worth-Mention Awards (Top 90%. My cohorts are great.)
+  <img src="../images/tju.png" alt="Image" style="width: 40px; margin-right: 10px;" >
+  <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
+	<span style="font-size: 14px;"><b>B.Eng. Tianjin University (TJU)</b></span><br/>
+    <span style="font-size: 12px;">None-Worth-Mention Awards (Top 90%. My cohorts are great.)</span></div> 
   </div>
 </div>
 
@@ -162,37 +162,32 @@ Education
 
 Work Experience
 ------
-<div style="display: flex; align-items: center;">
-  <img src="../images/rai.png" alt="Image" style="width: 40px">
-  <div style="display: inline; flex-direction: column; justify-content: center;">
-    <!-- <h2>Heading</h2> -->
-    carpenter, part-time software engineer (~ 1 yr)<br/> Developed a novel LiDAR-Camera calibration method. Automated the calibration of 12 cameras, 2 lidars, 2 IMUs and a rotations platform with one click!
-  </div>
-</div>
-
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/mit.png" alt="Image" style="width: 40px">
-  <div style="display: inline; flex-direction: column; justify-content: center;">
-    <!-- <h2>Heading</h2> -->
-    visiting undergrad researcher(~ 0.5 yr)<br/> Got my first-ever funding from TJU to do my undergrad thesis at MIT working with by Dr. <a href="https://www.i4fsi.com/">Dixia Fan</a>.
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center;">
-  <img src="../images/slamtec.png" alt="Image" style="width: 40px">
+  <img src="../images/rai.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
-    <!-- <h2>Heading</h2> -->
-    Donut Eater (2017 Summer)<br/> SLAMTec build really good LiDARs and Robot platforms. Check it out!
+	<span style="font-size: 14px;"><b>Carpenter & Part-time Software Engineer, Refraction AI (~ 1 yr)</b></span><br/>
+    <span style="font-size: 12px;">Developed a novel LiDAR-Camera calibration software. Automated the calibration of 12 cameras, 2 lidars, 2 IMUs and a rotations platform with one click!</span></div> 
   </div>
 </div>
 
-<!-- <img src="../images/rai.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">carpenter, part-time software engineer<br/>.</div>
+<div style="display: flex; align-items: center;">
+  <img src="../images/mit.png" alt="Image" style="width: 40px; margin-right: 10px;" >
+  <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
+	<span style="font-size: 14px;"><b>Visiting Undergrad Researcher, Massachuset Institute of Technology (~ 0.5 yr)</b></span><br/>
+    <span style="font-size: 12px;">Got my first-ever funding from TJU to do my undergrad thesis at MIT working with by Dr. <a href="https://www.i4fsi.com/">Dixia Fan</a>.</span></div> 
+  </div>
+</div>
 
-<img src="../images/mit.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">undergrad visiting researcher<br/>did some reserach</div>
-  
-<img src="../images/slamtec.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">donut eater<br/>.</div> -->
+<div style="display: flex; align-items: center;">
+  <img src="../images/tju.png" alt="Image" style="width: 40px; margin-right: 10px;" >
+  <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
+	<span style="font-size: 14px;"><b>Donut Eater, SLAMTEC (2017 Summer)</b></span><br/>
+    <span style="font-size: 12px;">SLAMTEC build really good LiDARs and Robot platforms. Check it out!</span></div> 
+  </div>
+</div>
+
+
 
 
 <!-- A data-driven personal website
