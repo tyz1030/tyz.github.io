@@ -155,21 +155,21 @@ Education
 
 Work Experience
 ------
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: start;">
   <img src="../images/rai.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>Carpenter & Part-time Software Engineer, Refraction AI (~ 1 yr)</b></span><br/>
     <span style="font-size: 12px;">Developed a novel LiDAR-Camera calibration software. Automated the calibration of 12 cameras, 2 lidars, 2 IMUs and a rotations platform with one click!</span></div> 
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: start;">
   <img src="../images/mit.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>Visiting Undergrad Researcher, Massachuset Institute of Technology (~ 0.5 yr)</b></span><br/>
     <span style="font-size: 12px;">Got my first-ever funding from TJU to do my undergrad thesis at MIT working with by Dr. <a href="https://www.i4fsi.com/">Dixia Fan</a>.</span></div> 
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: start;">
   <img src="../images/tju.png" alt="Image" style="width: 40px; margin-right: 10px;" >
   <div style="display: inline; flex-direction: column; justify-content: center;line-height: 1;">
 	<span style="font-size: 14px;"><b>Donut Eater, SLAMTEC (2017 Summer)</b></span><br/>
