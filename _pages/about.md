@@ -132,7 +132,7 @@ Teaching
 Education
 ------
 
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
   <img src="../images/cmu.png" alt="Image" style="width: 40px" align="middle" border="3">
   <div style="display: inline; flex-direction: column; justify-content: center;">
     <!-- <h2>Heading</h2> -->
