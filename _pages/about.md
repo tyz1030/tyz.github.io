@@ -135,20 +135,59 @@ Education
 <div style="display: flex; align-items: center;">
   <img src="../images/cmu.png" alt="Image" style="width: 40px">
   <div style="display: inline; flex-direction: column; justify-content: center;">
+    Ph.D. Candidate <br/>Carnegie Mellon University (CMU)
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/umich.png" alt="Image" style="width: 40px">
+  <div style="display: inline; flex-direction: column; justify-content: center;">
+    M.S. in Robotics<br/>University of Michigan, Ann Arbor (UM)
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="../images/tju.png" alt="Image" style="width: 40px">
+  <div style="display: inline; flex-direction: column; justify-content: center;">
     <!-- <h2>Heading</h2> -->
-    Ph.D. Carnegie Mellon University<br/>Ph.D. Carnegie Mellon University
+    B.Eng. Tianjin University (TJU)<br/> None-Worth-Mention Awards (Top 90%. My cohorts are great.)
+  </div>
+</div>
+
+<!-- <img src="../images/cmu.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: flex;">Ph.D. Carnegie Mellon University<br/>.</div>
+<!-- 
+<img src="../images/umich.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">M.S. University of Michigan, Ann Arbor<br/>.</div>
+  
+<img src="../images/tju.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">B.Eng. Tianjin University<br/>.</div> --> -->
+
+Work Experience
+------
+<div style="display: flex; align-items: center;">
+  <img src="../images/rai.png" alt="Image" style="width: 40px">
+  <div style="display: inline; flex-direction: column; justify-content: center;">
+    <!-- <h2>Heading</h2> -->
+    carpenter, part-time software engineer (~ 1 yr)<br/> Developed a novel LiDAR-Camera calibration method. Automated the calibration of 12 cameras, 2 lidars, 2 IMUs and a rotations platform with one click!
   </div>
 </div>
 
 
-<!-- <img src="../images/cmu.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: flex;">Ph.D. Carnegie Mellon University<br/>.</div>
+<div style="display: flex; align-items: center;">
+  <img src="../images/mit.png" alt="Image" style="width: 40px">
+  <div style="display: inline; flex-direction: column; justify-content: center;">
+    <!-- <h2>Heading</h2> -->
+    visiting undergrad researcher(~ 0.5 yr)<br/> Got my first-ever funding from TJU to do my undergrad thesis at MIT working with by Dr. <a href="https://www.i4fsi.com/">Dixia Fan</a>.
+  </div>
+</div>
 
-<img src="../images/umich.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">M.S. University of Michigan, Ann Arbor<br/>.</div>
-  
-<img src="../images/tju.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">B.Eng. Tianjin University<br/>.</div> -->
 
-Work Experience
-------
+<div style="display: flex; align-items: center;">
+  <img src="../images/slamtec.png" alt="Image" style="width: 40px">
+  <div style="display: inline; flex-direction: column; justify-content: center;">
+    <!-- <h2>Heading</h2> -->
+    Donut Eater (2017 Summer)<br/> SLAMTec build really good LiDARs and Robot platforms. Check it out!
+  </div>
+</div>
+
 <!-- <img src="../images/rai.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">carpenter, part-time software engineer<br/>.</div>
 
 <img src="../images/mit.png" alt="drawing" style="width:40px;" align="middle" border="3"/> <div style="display: inline-block;">undergrad visiting researcher<br/>did some reserach</div>
